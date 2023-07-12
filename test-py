@@ -1,0 +1,23 @@
+#María Marín. C.I: 30.414.526
+
+import unittest
+    from biseccion import *
+    from Newt_Raphson import *
+    from Integracion_numerica import *
+    from euler import *
+
+class MyTest(unittest.TestCase):
+    def test_biseccion(self):
+        pass
+
+    def test_Newt_Raphson(self):
+        pass
+
+    def test_Integracion_numerica(self):
+        pass
+
+    def test_euler(self):
+        pass
+
+if __name__ == '__main__':
+    unittest.main()
